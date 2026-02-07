@@ -1,0 +1,8 @@
+Weapon Used,Encoded
+Blunt Object,0
+Explosives,1
+Firearm,2
+Knife,3
+Other,4
+Poison,5
+nan,6
