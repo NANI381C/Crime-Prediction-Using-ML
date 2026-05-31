@@ -51,11 +51,7 @@ Run the analysis/notebook:
 Bash
 # Open your preferred environment (VS Code or Jupyter) and run your main script or notebook
 jupyter notebook
+
 👤 Author
 Simham Nagasai - GitHub Profile
 
-
-### Next Steps:
-1. Copy the code block above.
-2. Paste it directly into the big dark editor window on your screen (replacing line 1).
-3. Click the blue **Commit changes...** button in the top right corner of your webpage to save it and make it live!
